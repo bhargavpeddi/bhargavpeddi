@@ -43,17 +43,19 @@ I'm interested in data science, healthcare analytics, BI, ML/AI, and data-engine
 
 ## 🚀 Featured work
 
-### 🏥 Patient Readmission Risk Analysis
+### 🏥 [Patient Readmission Risk Analysis](https://github.com/bhargavpeddi/patient-readmission-risk-analysis)
 
 Analyzed hospital discharge data with SQL, engineered patient-level risk features, and built a Power BI dashboard for readmission trends and care-planning insights.
 
-### 📉 Customer Churn Prediction
+### 📉 [Customer Churn Prediction](https://github.com/bhargavpeddi/customer-churn-prediction)
 
 Built an XGBoost classification workflow with feature engineering, class-imbalance handling, and SHAP explanations to make churn drivers understandable to non-technical readers.
 
-### ⚙️ Real-Time BI & Data Engineering Pipeline
+### ⚙️ [Real-Time BI & Data Engineering Pipeline](https://github.com/bhargavpeddi/realtime-bi-data-pipeline)
 
 Designed a Python-and-SQL ETL workflow with automated validation and anomaly checks, producing analytics-ready data for Power BI and Tableau reporting.
+
+The linked repositories are **runnable reconstructions with synthetic data**. They demonstrate the methods without exposing original employer code, patient records, or proprietary datasets. Demo outputs are not the résumé-reported results.
 
 ## 🌐 Connect with me
 
