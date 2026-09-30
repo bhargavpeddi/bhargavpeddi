@@ -8,9 +8,9 @@ Data scientist working in **healthcare analytics**. I build SQL and Python pipel
 
 ## 🧑‍💻 About Me
 
-- 🏥 **Data Scientist / AI-ML Analyst at UnitedHealthcare** (2026 – present): member engagement and appointment-adherence models, Power BI reporting
-- 📊 **Operations Data Analyst at NJIT** (2025 – present): SQL, Python ETL, and KPI dashboards over 1M+ operational records
-- 🔬 **Data Scientist and Data Analyst at Optum** (2022 – 2024): utilization analytics and healthcare demand forecasting
+- 🏥 **Data Scientist / AI-ML Analyst at UnitedHealthcare** (2026 to present): member engagement and appointment-adherence models, Power BI reporting
+- 📊 **Operations Data Analyst at NJIT** (2025 to present): SQL, Python ETL, and KPI dashboards over 1M+ operational records
+- 🔬 **Data Scientist and Data Analyst at Optum** (2022 to 2024): utilization analytics and healthcare demand forecasting
 - 🎓 **MS in Information Systems @ NJIT** (December 2026)
 
 ---
@@ -50,24 +50,28 @@ Data scientist working in **healthcare analytics**. I build SQL and Python pipel
 ## 🚀 Featured Projects
 
 ### 📉 [Customer Churn Prediction](https://github.com/bhargavpeddi/customer-churn-prediction)
+- 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/predicting-customer-churn-without-fooling-yourself-smote-xgboost-and-shap-0f65369e73d6)
 - XGBoost classifier with SMOTE inside cross-validation, so oversampled rows never leak into validation folds
-- **0.7497 ROC-AUC** and **72.6% accuracy** on a 1,409-customer holdout (CV ROC-AUC 0.7523)
+- Catches **62% of churners**; the top 20% of risk scores contain **48% of all churners** (2.4x lift), ROC-AUC 0.75 on a 1,409-customer holdout
 - SHAP explanations: monthly charges, autopay, and tenure drive churn the most
 - **Tech:** Python, pandas, scikit-learn, imbalanced-learn, XGBoost, SHAP
 
 ### 🏥 [Patient Readmission Risk Analysis](https://github.com/bhargavpeddi/patient-readmission-risk-analysis)
+- 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/where-do-hospital-readmissions-concentrate-a-sql-first-analysis-623689532ce0)
 - Row-level validation, then SQL analysis of 10,000 discharge encounters in SQLite
 - **14.9%** overall 30-day readmission rate; high-risk segment at **28.9%** vs 8.6% for low risk
 - Exports department, monthly, and segment summaries as CSVs ready for Power BI
 - **Tech:** Python, SQL, SQLite, matplotlib
 
 ### ⚙️ [BI Data Pipeline](https://github.com/bhargavpeddi/realtime-bi-data-pipeline)
+- 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/a-data-pipeline-that-rejects-bad-rows-instead-of-loading-them-8e5f8c7b739e)
 - Micro-batch ETL across three sources (events, accounts, regional targets), 500 events per batch
 - Rejects bad rows with a logged reason: **5,000 loaded, 2 rejected** (duplicate ID, unknown account)
 - Transactional loads into SQLite and a daily KPI table by region
 - **Tech:** Python, SQL, SQLite, ETL
 
 ### 🔔 [Peak Posting Job Alert](https://github.com/bhargavpeddi/peak-posting-job-alert)
+- 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/i-built-a-chrome-extension-so-id-see-job-postings-in-the-first-hour-8c38150d3da8)
 - Chrome extension (Manifest V3) that checks LinkedIn, Indeed, Dice, Wellfound, and YC Work at a Startup every 15 minutes
 - Runs 262 saved searches, keeps only fresh postings, filters out 148 staffing firms and citizenship-only roles, and sends the rest to Slack
 - Dashboard with run history, board and region filters, CSV export, and an optional Hunter.io contact lookup
@@ -77,7 +81,7 @@ Data scientist working in **healthcare analytics**. I build SQL and Python pipel
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
 Open to data science, healthcare analytics, BI, and data engineering roles.
 [LinkedIn](https://www.linkedin.com/in/bhargav-peddi-b29a69178) · [Email](mailto:bhargavpeddi25@gmail.com)
