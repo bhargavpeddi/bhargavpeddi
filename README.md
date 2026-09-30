@@ -51,9 +51,9 @@ Data scientist working in **healthcare analytics**. I build SQL and Python pipel
 
 ### 📉 [Customer Churn Prediction](https://github.com/bhargavpeddi/customer-churn-prediction)
 - 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/predicting-customer-churn-without-fooling-yourself-smote-xgboost-and-shap-0f65369e73d6)
-- XGBoost classifier with SMOTE inside cross-validation, so oversampled rows never leak into validation folds
-- Catches **62% of churners**; the top 20% of risk scores contain **48% of all churners** (2.4x lift), ROC-AUC 0.75 on a 1,409-customer holdout
-- SHAP explanations: monthly charges, autopay, and tenure drive churn the most
+- XGBoost on the public IBM Telco Customer Churn dataset (7,043 customers), tuned with 5-fold cross-validation
+- **80.1% accuracy** and **0.85 ROC-AUC** on a 1,409-customer test set; the top 20% of risk scores contain **50% of all churners** (2.5x lift)
+- SHAP explanations: tenure, contract length, fiber optic internet, and electronic-check payments drive churn the most
 - **Tech:** Python, pandas, scikit-learn, imbalanced-learn, XGBoost, SHAP
 
 ### 🏥 [Patient Readmission Risk Analysis](https://github.com/bhargavpeddi/patient-readmission-risk-analysis)
