@@ -67,7 +67,13 @@ Data scientist working in **healthcare analytics**. I build SQL and Python pipel
 - Transactional loads into SQLite and a daily KPI table by region
 - **Tech:** Python, SQL, SQLite, ETL
 
-> The data from my jobs is confidential, so these projects run on seeded, generated datasets. Each repo runs end to end with a few commands and includes tests.
+### 🔔 [Peak Posting Job Alert](https://github.com/bhargavpeddi/peak-posting-job-alert)
+- Chrome extension (Manifest V3) that checks LinkedIn, Indeed, Dice, Wellfound, and YC Work at a Startup every 15 minutes
+- Runs 262 saved searches, keeps only fresh postings, filters out 148 staffing firms and citizenship-only roles, and sends the rest to Slack
+- Dashboard with run history, board and region filters, CSV export, and an optional Hunter.io contact lookup
+- **Tech:** JavaScript, Chrome Extensions API, Slack webhooks, Hunter.io API
+
+> The data projects run on seeded, generated datasets because the data from my jobs is confidential. Each one runs end to end with a few commands and includes tests.
 
 ---
 
