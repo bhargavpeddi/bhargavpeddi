@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhargav Peddi
 
-Data scientist working in **healthcare analytics**. I build SQL and Python pipelines, Power BI dashboards, and machine learning models that engagement, utilization, and operations teams use every day.
+Data scientist focused on **healthcare analytics**. I build SQL and Python pipelines, Power BI dashboards, and machine learning models.
 
 📍 Jersey City, NJ | ✉️ [bhargavpeddi25@gmail.com](mailto:bhargavpeddi25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhargav-peddi-b29a69178)
 
@@ -8,7 +8,6 @@ Data scientist working in **healthcare analytics**. I build SQL and Python pipel
 
 ## 🧑‍💻 About Me
 
-- 🏥 **Data Scientist / AI-ML Analyst at UnitedHealthcare** (2026 to present): member engagement and appointment-adherence models, Power BI reporting
 - 📊 **Operations Data Analyst at NJIT** (2025 to present): SQL, Python ETL, and KPI dashboards over 1M+ operational records
 - 🔬 **Data Scientist and Data Analyst at Optum** (2022 to 2024): utilization analytics and healthcare demand forecasting
 - 🎓 **MS in Information Systems @ NJIT** (December 2026)
