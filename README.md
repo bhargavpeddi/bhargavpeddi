@@ -8,7 +8,6 @@ Data scientist focused on **healthcare analytics**. I build SQL and Python pipel
 
 ## 🧑‍💻 About Me
 
-- 📊 **Operations Data Analyst at NJIT** (2025 to present): SQL, Python ETL, and KPI dashboards over 1M+ operational records
 - 🔬 **Data Scientist and Data Analyst at Optum** (2022 to 2024): utilization analytics and healthcare demand forecasting
 - 🎓 **MS in Information Systems @ NJIT** (December 2026)
 
