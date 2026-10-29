@@ -1,15 +1,6 @@
 # 👋 Hi, I'm Bhargav Peddi
 
-Data scientist focused on **healthcare analytics**. I build SQL and Python pipelines, Power BI dashboards, and machine learning models.
-
 📍 Jersey City, NJ | ✉️ [bhargavpeddi25@gmail.com](mailto:bhargavpeddi25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bhargav-peddi-b29a69178)
-
----
-
-## 🧑‍💻 About Me
-
-- 🔬 **Data Scientist and Data Analyst at Optum** (2022 to 2024): utilization analytics and healthcare demand forecasting
-- 🎓 **MS in Information Systems @ NJIT** (December 2026)
 
 ---
 
@@ -45,7 +36,27 @@ Data scientist focused on **healthcare analytics**. I build SQL and Python pipel
 
 ---
 
+## 🎓 Education
+
+- **MS in Information Systems**, New Jersey Institute of Technology (NJIT), Newark, NJ (Jan 2025 to Dec 2026)
+  - Dean's List: Spring 2025, Spring 2026
+- **B.Tech in Information Technology**, Anurag University, Hyderabad, India (Aug 2021 to May 2024)
+
+---
+
 ## 🚀 Featured Projects
+
+### 🌲 [Data Mining and Predictive Analytics](https://github.com/bhargavpeddi/data-mining-predictive-analytics)
+- 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/do-you-really-need-a-random-forest-benchmarking-3-classic-models-on-4-real-datasets-70c61b49a160)
+- Logistic Regression, Decision Tree and Random Forest benchmarked on 4 real datasets (Titanic, Breast Cancer, Penguins, Diamonds)
+- **97.4% accuracy** on breast-cancer diagnosis and **R² 0.99** on diamond pricing, with leakage-safe pipelines and 5-fold CV tuning
+- **Tech:** Python, pandas, scikit-learn, Matplotlib, seaborn, pytest
+
+### 🍽️ [7-Day Restaurant Demand Forecasting](https://github.com/bhargavpeddi/restaurant-sales-forecasting)
+- 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/forecasting-a-week-of-restaurant-demand-with-an-lstm-and-being-honest-about-the-baselines-012b9b67aabb)
+- TensorFlow/Keras LSTM ensemble forecasting daily visitors for 4 restaurants, 7 days ahead
+- **33% lower error** than a seasonal-naive baseline on a 12-week hold-out (19.6% MAPE)
+- **Tech:** Python, TensorFlow/Keras, pandas, NumPy, Matplotlib, seaborn
 
 ### 📉 [Customer Churn Prediction](https://github.com/bhargavpeddi/customer-churn-prediction)
 - 📝 [Read the write-up on Medium](https://medium.com/@bhargavpeddi/predicting-customer-churn-without-fooling-yourself-smote-xgboost-and-shap-0f65369e73d6)
@@ -75,7 +86,7 @@ Data scientist focused on **healthcare analytics**. I build SQL and Python pipel
 - Dashboard with run history, board and region filters, CSV export, and an optional Hunter.io contact lookup
 - **Tech:** JavaScript, Chrome Extensions API, Slack webhooks, Hunter.io API
 
-> The data projects run on seeded, generated datasets because the data from my jobs is confidential. Each one runs end to end with a few commands and includes tests.
+> The readmission and pipeline projects run on seeded, generated datasets. Each project runs end to end with a few commands and includes tests.
 
 ---
 
